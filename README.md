@@ -1,4 +1,4 @@
-![RingPublishing](https://github.com/ringpublishing/RingPublishingGDPR-iOS/raw/master/ringpublishing_logo.jpg)
+![RingPublishing](https://github.com/ringpublishing/RingPublishing-CocoaPods-Specs/raw/master/ringpublishing_logo.jpg)
 
 # RingPublishing-CocoaPods-Specs
 
